@@ -1,4 +1,4 @@
--# Hi 👋, I'm Roshan Acharya
+# Hi 👋, I'm Roshan Acharya
 
 ### 💻 IT Student | Python • Cyber Security • Cloud Computing
 
@@ -31,18 +31,10 @@
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Code-Roshan">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
